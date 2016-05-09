@@ -3,6 +3,9 @@ Please see the license (BSD 2) at the bottom.
 ##Open GL Projects - 2012
 Basic OpenGL projects that I have worked on for graphics course. These include voxel based scene generations. Projection / hidden surface implementations from the scratch.
 
+Screenshots attached with projects. Also see my blog http://eat-sleep-code.blogspot.in
+
+
 ###voxel scene
 	This is an animation scene
 	Renders:
